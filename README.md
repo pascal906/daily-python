@@ -19,3 +19,12 @@ Data type, and type casting
 * checking data type using type() function
 * casting using: str(), float(), int(), bool(),
 * explicit type casting, implicit type casting
+
+**23 April 2025** <br>
+Accept user input, and some exercises
+* input() function
+* exercises, mad libs, area calc, and shopping cart
+* using typecasting, int(), float()
+* menggunakan formatted string literal (f-string) untuk memasukkan variabel ke dalam string, print(f"Halo, {nama}")
+* membuat variabel berisi operasi matematika: area = lenght * height
+* round() function
