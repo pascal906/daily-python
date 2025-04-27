@@ -28,3 +28,11 @@ Accept user input, and some exercises
 * menggunakan formatted string literal (f-string) untuk memasukkan variabel ke dalam string, print(f"Halo, {nama}")
 * membuat variabel berisi operasi matematika: area = lenght * height
 * round() function
+
+**27 April 2025** <br>
+Math in python, and some exercises
+* arithmetic operators
+* add (+=), substract (-=), multiplication (*=), division (/=), exponent (**=), modulo (%=)
+* built-in function math: round(), abs(), pow(), min(), max()
+* import math package, using math.pi, math.e, math.sqrt, math.ceil
+* exercises: circumference of a circle, area of a circle, and last is hypotenuse calculator
